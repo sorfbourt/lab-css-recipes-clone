@@ -15,9 +15,9 @@ body {
     border-bottom:2px solid #989898;
 }
 
-
-#heroImage {
-    width:100%;
+header{
+    background-image:url(../images/apple-pie.jpg);
+    background-size: cover;
     height:600px;
 }
 
